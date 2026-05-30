@@ -3,6 +3,22 @@ languageCode = 'vi'
 title = 'Physics Translate VN'
 theme = 'PaperMod'
 
+[params.profileMode]
+  enabled = true
+  title = "Physics Translate VN"
+  subtitle = "Hub học thuật: Từ Vật lý Lý thuyết đến kỹ thuật 🚀"
+
+  [[params.profileMode.buttons]]
+    name = "Đọc Bản Demo Quang Sóng"
+    url = "/projects/quang-song-demo/"
+
+[[params.socialIcons]]
+    name = "email"
+    url = "mailto:physicstranslatevn@gmail.com"
+[[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/QuanTD1108"
+
 [params]
   defaultTheme = "auto"
   ShowReadingTime = true

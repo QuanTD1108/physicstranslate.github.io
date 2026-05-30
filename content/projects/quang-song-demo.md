@@ -21,3 +21,4 @@ Trong đó:
 * $a$: Khoảng cách giữa hai khe hẹp.
 
 Trải nghiệm đọc phương trình mượt mà này sẽ được áp dụng cho toàn bộ dự án tài liệu sắp tới!
+![Mô tả ảnh](/images/giao-thoa.jpg)
