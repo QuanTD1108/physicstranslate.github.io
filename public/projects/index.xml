@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Physics Translate VN</title>
+    <link>http://localhost:1313/physicstranslate.github.io/projects/</link>
+    <description>Recent content in Projects on Physics Translate VN</description>
+    <generator>Hugo</generator>
+    <language>vi</language>
+    <lastBuildDate>Sat, 30 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/physicstranslate.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bản Demo: Tuyển tập Quang Sóng - Giao thoa</title>
+      <link>http://localhost:1313/physicstranslate.github.io/projects/quang-song-demo/</link>
+      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/physicstranslate.github.io/projects/quang-song-demo/</guid>
+      <description>&lt;p&gt;Chào mừng bạn đến với ấn phẩm đầu tiên của &lt;strong&gt;Physics Translate VN&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Tài liệu này tập trung vào các hiện tượng vật lý ứng dụng sâu trong quang học lý thuyết, đi từ nhiễu xạ đến giao thoa đa khe.&lt;/p&gt;
+&lt;h3 id=&#34;1-khoảng-vân-trong-giao-thoa-y-âng&#34;&gt;1. Khoảng vân trong giao thoa Y-âng&lt;/h3&gt;
+&lt;p&gt;Khi khảo sát một hệ thống khe Y-âng cơ bản, công thức xác định khoảng vân được biểu diễn cực kỳ sắc nét trên web:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+baseURL = 'https://quantd1108.github.io/physicstranslate.github.io/'
+languageCode = 'vi'
+title = 'Physics Translate VN'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+
+  # Cấu hình MathJax để hiển thị LaTeX
+  math = true 
+
+[menu]
+  [[menu.main]]
+    identifier = "projects"
+    name = "Tuyển tập Tài liệu"
+    url = "/projects/"
+    weight = 10
+  [[menu.main]]
+    identifier = "physicsinlife"
+    name = "Physics In Life"
+    url = "/pil/"
+    weight = 20
