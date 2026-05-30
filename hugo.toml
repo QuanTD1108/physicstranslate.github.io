@@ -3,6 +3,7 @@ languageCode = 'vi'
 title = 'Physics Translate VN'
 theme = 'PaperMod'
 
+canonifyURLs = true
 [params.profileMode]
   enabled = true
   title = "Physics Translate VN"
